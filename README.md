@@ -27,9 +27,9 @@ I'm proud of myself. At the same time, I kinda feel like this is useless. Anyway
 
 There are many things I need to add, even after the first release. For instance, encryption. And checksums. And flags for the decompiler.
 Things I need to do:
-[ ] Fix the problem with packing non-text based files
-[ ] Encryption
-[ ] Checksums
-[ ] Flags
-[ ] More byte grouping options (If possible)
-[ ] File manager??
+- [ ] Fix the problem with packing non-text based files
+- [ ] Encryption
+- [ ] Checksums
+- [ ] Flags
+- [ ] More byte grouping options (If possible)
+- [ ] File manager??
