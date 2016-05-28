@@ -2,18 +2,18 @@
 
 ## Features
 
--Easy file packing
--No external programs. Just the JAR.
--A rather small library
+- Easy file packing
+- No external programs. Just the JAR.
+- A rather small library
 
 
 
 ## Limitations
 
--Only up to 256 files per package
--Max data in the package is just under 2GB (Limited by signed integers)
--Reads bytes as ASCII, writes bytes as ASCII. This may be changed in the future.
--File names CANNOT contain SOH (0x01), EOT (0x04), FS (0x1C), or GS (0x1D) characters.
+- Only up to 256 files per package
+- Max data in the package is just under 2GB (Limited by signed integers)
+- Reads bytes as ASCII, writes bytes as ASCII. This may be changed in the future.
+- File names CANNOT contain SOH (0x01), EOT (0x04), FS (0x1C), or GS (0x1D) characters.
 
 
 
